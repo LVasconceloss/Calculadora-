@@ -6,13 +6,21 @@ Este é um projeto simples de uma calculadora básica desenvolvida utilizando HT
 
 Funcionalidades - 
 Adição: Realiza a soma de dois números.
+
 Subtração: Realiza a subtração de dois números.
+
 Multiplicação: Realiza a multiplicação de dois números.
+
 Divisão: Realiza a divisão de dois números.
+
 Interface simples e intuitiva: Design fácil de usar e com boa responsividade.
-Tecnologias Utilizadas
+
+Tecnologias Utilizadas - 
+
 HTML: Para a estrutura e marcação da página.
+
 CSS: Para estilizar e criar o layout visual da calculadora.
+
 JavaScript: Para adicionar a funcionalidade e interação com as operações.
 
 
