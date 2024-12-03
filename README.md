@@ -1,10 +1,10 @@
 Calculadora Básica com as 4 Operações Matemáticas
 Calculadora Básica em HTML, CSS e JavaScript
 
-Descrição
+Descrição - 
 Este é um projeto simples de uma calculadora básica desenvolvida utilizando HTML, CSS e JavaScript. O objetivo é fornecer uma ferramenta prática para realizar as operações matemáticas simples: adição, subtração, multiplicação e divisão.
 
-Funcionalidades
+Funcionalidades - 
 Adição: Realiza a soma de dois números.
 Subtração: Realiza a subtração de dois números.
 Multiplicação: Realiza a multiplicação de dois números.
